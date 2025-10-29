@@ -1,1 +1,1 @@
-export { HeroSection as default, HeroSection } from "@/src/components/index/HeroSection"
+export { HeroSection } from "@/src/components/index/HeroSection"
