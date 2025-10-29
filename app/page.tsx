@@ -1,3 +1,5 @@
-import Index from "@/src/pages/Index"
+import Index from "../src/pages/Index"
 
-export default Index
+const Page = Index
+
+export default Page
