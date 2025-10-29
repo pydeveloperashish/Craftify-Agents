@@ -1,4 +1,3 @@
-
 import React, { lazy, Suspense } from "react";
 import { Navbar } from "@/components/index/Navbar";
 import { HeroSection } from "@/components/index/HeroSection";
